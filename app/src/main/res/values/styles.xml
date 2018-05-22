@@ -8,10 +8,4 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="GroupFinderTheme" parent="AppTheme" >
-        <item name="colorPrimary">#36454f</item>
-        <item name="colorPrimaryDark">#384650</item>
-        <item name="android:colorBackground">#bdbdbd</item>
-    </style>
-
 </resources>
