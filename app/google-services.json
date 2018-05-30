@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1041281905832",
+    "firebase_url": "https://groupfinderproject.firebaseio.com",
+    "project_id": "groupfinderproject",
+    "storage_bucket": "groupfinderproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041281905832:android:c650b682c23e6a8e",
+        "android_client_info": {
+          "package_name": "com.example.blake.groupfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041281905832-e4532bgpvbcdlgreb2a5jtt6heudqgp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blake.groupfinder",
+            "certificate_hash": "b5e7dfc4d0464fde7a23ad2ea000a26920ed34c7"
+          }
+        },
+        {
+          "client_id": "1041281905832-jd75pofef3cr5mq1r78c1sqhg7ush3mi.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1041281905832-jd75pofef3cr5mq1r78c1sqhg7ush3mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmDOtVApxhvVfSRpQlDv9DoCUNJ4rQl-o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041281905832-jd75pofef3cr5mq1r78c1sqhg7ush3mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
