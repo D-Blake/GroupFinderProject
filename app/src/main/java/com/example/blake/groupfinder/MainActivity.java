@@ -11,6 +11,7 @@ import android.widget.TextView;
 
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -78,4 +79,27 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    public void eventsPage(View view){
+        setContentView(R.layout.events_page);
+    }
+
+    public void createPage(View view){
+        setContentView(R.layout.create);
+    }
+
+    public void chatPage(View view){
+        setContentView(R.layout.chat_room);
+    }
+
+    public void profilePage(View view){
+        setContentView(R.layout.activity_profile);
+    }
+
+    public void loginPage(View view){
+        setContentView(R.layout.login);
+    }
+
+    public void homePage(View view){
+        setContentView(R.layout.activity_main);
+    }
 }
